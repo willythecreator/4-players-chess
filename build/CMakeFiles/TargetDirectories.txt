@@ -1,0 +1,3 @@
+C:/Coding/4 Players Chess/build/CMakeFiles/fourchess.dir
+C:/Coding/4 Players Chess/build/CMakeFiles/ALL_BUILD.dir
+C:/Coding/4 Players Chess/build/CMakeFiles/ZERO_CHECK.dir
